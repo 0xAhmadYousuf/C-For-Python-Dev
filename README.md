@@ -7,16 +7,16 @@ The GNU Compiler Collection (GCC) is a powerful, open-source compiler that suppo
 
 Use the links below to quickly navigate to the installation instructions for your operating system:
 
-* [Windows Installation](https://www.google.com/search?q=%23windows-installation)  
-  * [Method 1: Using MinGW-w64 (Recommended)](https://www.google.com/search?q=%23method-1-using-mingw-w64-recommended)  
-  * [Method 2: Using WSL (Windows Subsystem for Linux)](https://www.google.com/search?q=%23method-2-using-wsl-windows-subsystem-for-linux)  
-* [macOS Installation](https://www.google.com/search?q=%23macos-installation)  
-  * [Method 1: Installing Xcode Command Line Tools](https://www.google.com/search?q=%23method-1-installing-xcode-command-line-tools)  
-  * [Method 2: Using Homebrew](https://www.google.com/search?q=%23method-2-using-homebrew)  
-* [Linux Installation](https://www.google.com/search?q=%23linux-installation)  
-  * [Debian/Ubuntu (apt)](https://www.google.com/search?q=%23debianubuntu-apt)  
-  * [Fedora/RHEL/CentOS (dnf/yum)](https://www.google.com/search?q=%23fedora-rhel-centos-dnf-yum)  
-  * [Arch Linux (pacman)](https://www.google.com/search?q=%23arch-linux-pacman)
+* [Windows Installation](windows-installation)  
+  * [Method 1: Using MinGW-w64 (Recommended)](method-1-using-mingw-w64-recommended)  
+  * [Method 2: Using WSL (Windows Subsystem for Linux)](method-2-using-wsl-windows-subsystem-for-linux)
+* [macOS Installation](macos-installation)
+  * [Method 1: Installing Xcode Command Line Tools](method-1-installing-xcode-command-line-tools)  
+  * [Method 2: Using Homebrew](method-2-using-homebrew)  
+* [Linux Installation](linux-installation)  
+  * [Debian/Ubuntu (apt)](debianubuntu-apt)  
+  * [Fedora/RHEL/CentOS (dnf/yum)](fedora-rhel-centos-dnf-yum)  
+  * [Arch Linux (pacman)](arch-linux-pacman)
 
 ## **Windows Installation**
 
